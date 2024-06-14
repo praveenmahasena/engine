@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/praveenmahasena/underwriteengine/internal"
+	"github.com/praveenmahasena/engine/internal"
 )
 
 func main() {

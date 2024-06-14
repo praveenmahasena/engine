@@ -1,3 +1,3 @@
-module github.com/praveenmahasena/underwriteengine
+module github.com/praveenmahasena/engine
 
 go 1.22.3
